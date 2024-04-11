@@ -4,7 +4,10 @@ This is the backend of the GrocerGo website.
 &nbsp;
 
 ## Dependencies
-NodeJS 20.9.0, Redis 5.0.14, MySQL 8.0, Nginx 12.4.0
+* NodeJS 20.9.0
+* Redis 5.0.14
+* MySQL 8.0
+* Nginx 12.4.0
 
 &nbsp;
 
