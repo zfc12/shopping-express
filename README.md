@@ -11,6 +11,11 @@ This is the backend of the GrocerGo website.
 
 &nbsp;
 
+## Database E/R Diagram
+https://www.figma.com/file/oKegYA6cTIjn85LsG717DX/Untitled?type=design&node-id=0%3A1&mode=design&t=Uvdwy3vTF9caJhvc-1  
+
+&nbsp;
+
 ## Setup
 To get started, follow the following steps:
 * Install Node in the local environment
@@ -23,7 +28,6 @@ To get started, follow the following steps:
 * Run Redis and MySQL80 (optionally, run Nginx)
 * Run the command "npm run dev" or "npm run prd", the app should now be running at "http://localhost:8000". If Nginx is also run, the app can be accessed via "http://localhost:8080/api" as well
 
-&nbsp;
 
-## Database E/R Diagram
-https://www.figma.com/file/oKegYA6cTIjn85LsG717DX/Untitled?type=design&node-id=0%3A1&mode=design&t=Uvdwy3vTF9caJhvc-1  
+
+
