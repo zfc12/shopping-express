@@ -1,0 +1,14 @@
+2024-04-08 17-37-26: Error: read ECONNRESET
+2024-04-08 17-37-26:     at TCP.onStreamRead (node:internal/stream_base_commons:217:20) {
+2024-04-08 17-37-26:   errno: -4077,
+2024-04-08 17-37-26:   code: 'ECONNRESET',
+2024-04-08 17-37-26:   syscall: 'read'
+2024-04-08 17-37-26: }
+2024-04-08 17-37-26: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-04-08 17-37-26:     at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+2024-04-08 17-37-26:   errno: -4078,
+2024-04-08 17-37-26:   code: 'ECONNREFUSED',
+2024-04-08 17-37-26:   syscall: 'connect',
+2024-04-08 17-37-26:   address: '127.0.0.1',
+2024-04-08 17-37-26:   port: 6379
+2024-04-08 17-37-26: }
