@@ -1,5 +1,5 @@
 ## Description
-This is the backend of the GrocerGo website.
+This project is the backend for the GrocerGo platform.
 
 &nbsp;
 
