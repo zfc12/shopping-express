@@ -26,7 +26,7 @@ To get started, follow the following steps:
 * Edit `db.js` under the `config` folder according to your MySQL configuration
 * Optionally, install Nginx in the local environment and replace your `nginx.conf` file with the provided `nginx.conf` file (the provided `nginx.conf` file is for Windows machines, adapt it accordingly on Mac or Linux machines)
 * Run Redis and MySQL80 (optionally, run Nginx)
-* Run the command "npm run dev" or "npm run prd", the app should now be running at "http://localhost:8000". If Nginx is also run, the app can be accessed via "http://localhost:8080/api" as well
+* Run the command `npm run dev` or `npm run prd`, the app should now be running at `http://localhost:8000`. If Nginx is also run, the app can be accessed via `http://localhost:8080/api` as well
 
 
 
