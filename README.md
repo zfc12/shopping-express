@@ -5,7 +5,7 @@ This project is the backend for the GrocerGo platform.
 
 Frontend: https://github.com/zfc12/shopping-react
 
-GrocerGo project demo: https://www.grocergo.site (open it on a mobile device or inspect it with screen dimension set to "iphone SE")
+Project demo: https://www.grocergo.site (open it on a mobile device or inspect it with screen dimension set to "iphone SE")
 
 &nbsp;
 
