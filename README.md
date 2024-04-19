@@ -3,9 +3,9 @@ This project is the backend for the GrocerGo platform.
 
 &nbsp;
 
-Frontend: https://github.com/zfc12/shopping-react
+- **Frontend**: [GrocerGo Frontend Repository](https://github.com/zfc12/shopping-react)
 
-Project demo: https://www.grocergo.site (open it on a mobile device or inspect it with screen dimension set to "iphone SE")
+- **Project Demo**: [GrocerGo Demo Site](https://www.grocergo.site) (Best viewed on a mobile device or in a browser with the screen dimensions set to "iPhone SE")
 
 &nbsp;
 
@@ -18,7 +18,7 @@ Project demo: https://www.grocergo.site (open it on a mobile device or inspect i
 &nbsp;
 
 ## Database E/R Diagram
-https://www.figma.com/file/oKegYA6cTIjn85LsG717DX/Untitled?type=design&node-id=0%3A1&mode=design&t=Uvdwy3vTF9caJhvc-1  
+View the [E/R Diagram on Figma](https://www.figma.com/file/oKegYA6cTIjn85LsG717DX/Untitled?type=design&node-id=0%3A1&mode=design&t=Uvdwy3vTF9caJhvc-1)  
 
 &nbsp;
 
