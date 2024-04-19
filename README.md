@@ -3,6 +3,12 @@ This project is the backend for the GrocerGo platform.
 
 &nbsp;
 
+Frontend: https://github.com/zfc12/shopping-react
+
+GrocerGo project demo: https://www.grocergo.site (open it on a mobile device or inspect it with screen dimension set to "iphone SE")
+
+&nbsp;
+
 ## Dependencies
 * NodeJS 20.9.0
 * Redis 5.0.14
