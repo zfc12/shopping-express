@@ -3,9 +3,9 @@ This project is the backend for the GrocerGo platform.
 
 &nbsp;
 
-- **Frontend**: [GrocerGo Frontend Repository](https://github.com/zfc12/shopping-react)
+- **Frontend**: https://github.com/zfc283/shopping-react
 
-- **Project Demo**: [GrocerGo Demo Site](https://www.grocergo.site) (Best viewed on a mobile device or in a browser with the screen dimensions set to "iPhone SE")
+- **Project Demo**: https://www.grocergo.site (Best viewed on a mobile device)
 
 &nbsp;
 
